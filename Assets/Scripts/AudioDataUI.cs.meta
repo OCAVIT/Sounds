@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8aa5861a074d15749b71e59e980a6686
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioData: {fileID: 11400000, guid: 66d77871502fdb94488670201548a194, type: 2}
+  - uniqueIDText: {instanceID: 0}
+  - longText: {instanceID: 0}
+  - audioListPanel: {instanceID: 0}
+  - longTextPanel: {instanceID: 0}
+  - showListButton: {instanceID: 0}
+  - showTextButton: {instanceID: 0}
+  - hideAllButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
